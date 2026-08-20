@@ -1,0 +1,7 @@
+seller_code,seller_name,category,cod_rto_pct,non_cod_avg_rto_pct,cod_rto_penalty_pp
+S001,Seller A,Women's Bras,29.68,3.0720635474860334,26.607936452513968
+S002,Seller B,Bedsheets,28.19,3.5315468113975577,24.658453188602444
+S003,Seller C,Walkie-talkies / Electronics,49.51,9.774175500588928,39.735824499411066
+S004,Seller D,Plants / Gardening,47.55,9.708552472858866,37.84144752714113
+S005,Seller E,Jewellery,37.6,6.104067423964821,31.49593257603518
+S006,Seller F,Sarees / Ethnic Fashion,36.69,1.9068092588470955,34.7831907411529

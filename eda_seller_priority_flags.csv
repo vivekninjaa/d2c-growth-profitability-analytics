@@ -1,0 +1,7 @@
+seller_name,category,scale_status,profit_status,rto_status,marketing_status,priority
+Seller A,Women's Bras,Lower scale,Profitable,Lower RTO,Mid ROAS,Protect / Scale
+Seller B,Bedsheets,Lower scale,Profitable,Lower RTO,Mid ROAS,Protect / Scale
+Seller C,Walkie-talkies / Electronics,High scale,Profitable,High RTO,Strong ROAS,RTO intervention
+Seller D,Plants / Gardening,Lower scale,Loss-making,High RTO,Mid ROAS,RTO intervention
+Seller E,Jewellery,High scale,Profitable,Moderate RTO,Mid ROAS,Optimize
+Seller F,Sarees / Ethnic Fashion,High scale,Loss-making,Moderate RTO,Mid ROAS,Profitability intervention

@@ -1,0 +1,7 @@
+seller_code,seller_name,category,states_50plus,avg_state_rto_pct,high_rto_orders
+S001,Seller A,Women's Bras,30,31.288536733791023,1857.5
+S002,Seller B,Bedsheets,22,26.566614146743856,158.25
+S003,Seller C,Walkie-talkies / Electronics,31,45.780811923019805,4610.75
+S004,Seller D,Plants / Gardening,26,39.68616160621594,4670.0
+S005,Seller E,Jewellery,26,33.733339179323266,3898.75
+S006,Seller F,Sarees / Ethnic Fashion,31,36.69326318056516,9448.75

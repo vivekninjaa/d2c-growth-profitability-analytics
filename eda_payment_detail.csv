@@ -1,0 +1,24 @@
+seller_code,seller_name,category,payment_mode,awb_nc,aov,rto_%,order_contribution_%
+S001,Seller A,Women's Bras,online,9062,513.59,1.72,12.31
+S001,Seller A,Women's Bras,cod,55226,577.67,29.68,84.41
+S001,Seller A,Women's Bras,partial-cod,1990,536.4,9.4,2.72
+S001,Seller A,Women's Bras,prepaid,404,570.9,2.23,0.56
+S004,Seller D,Plants / Gardening,cod,21899,463.1,47.55,94.21
+S004,Seller D,Plants / Gardening,online,1182,416.84,6.09,4.11
+S004,Seller D,Plants / Gardening,partial-cod,392,428.4,21.68,1.4
+S004,Seller D,Plants / Gardening,prepaid,84,332.82,4.76,0.28
+S002,Seller B,Bedsheets,cod,3665,812.51,28.19,84.69
+S002,Seller B,Bedsheets,online,725,740.11,3.59,15.07
+S002,Seller B,Bedsheets,prepaid,12,824.0,0.0,0.25
+S006,Seller F,Sarees / Ethnic Fashion,cod,119197,915.81,36.69,86.2
+S006,Seller F,Sarees / Ethnic Fashion,online,21948,803.98,1.61,13.48
+S006,Seller F,Sarees / Ethnic Fashion,partial-cod,421,1223.01,16.39,0.26
+S006,Seller F,Sarees / Ethnic Fashion,prepaid,96,1384.5,6.25,0.063
+S003,Seller C,Walkie-talkies / Electronics,cod,19937,4945.34,49.51,94.98
+S003,Seller C,Walkie-talkies / Electronics,partial-cod,457,4759.06,22.98,1.39
+S003,Seller C,Walkie-talkies / Electronics,online,1138,4352.14,3.95,3.29
+S003,Seller C,Walkie-talkies / Electronics,prepaid,103,4682.54,15.53,0.34
+S005,Seller E,Jewellery,online,3723,543.63,3.55,6.9
+S005,Seller E,Jewellery,cod,40523,590.13,37.6,89.8
+S005,Seller E,Jewellery,partial-cod,1320,553.62,14.62,2.49
+S005,Seller E,Jewellery,prepaid,415,397.75,1.93,0.81

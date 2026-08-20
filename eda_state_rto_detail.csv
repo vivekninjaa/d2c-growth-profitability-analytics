@@ -1,0 +1,168 @@
+seller_code,seller_name,category,state,orders,delivered,rto_orders,rto_pct,avoidable_rto_orders_to_25pct
+S001,Seller A,Women's Bras,Andaman Nicobar,87,64,23,26.436781609195403,1.25
+S001,Seller A,Women's Bras,Andhra Pradesh,3048,2198,850,27.887139107611542,88.0
+S001,Seller A,Women's Bras,Assam,304,160,144,47.368421052631575,68.0
+S001,Seller A,Women's Bras,Bihar,1153,628,525,45.533391153512575,236.75
+S001,Seller A,Women's Bras,Chandigarh,50,42,8,16.0,0.0
+S001,Seller A,Women's Bras,Chhattisgarh,439,312,127,28.929384965831435,17.25
+S001,Seller A,Women's Bras,Delhi,2420,1754,666,27.520661157024797,61.0
+S001,Seller A,Women's Bras,Goa,275,219,56,20.363636363636363,0.0
+S001,Seller A,Women's Bras,Gujarat,1910,1367,543,28.429319371727747,65.5
+S001,Seller A,Women's Bras,Haryana,1424,966,458,32.162921348314605,102.0
+S001,Seller A,Women's Bras,Himachal Pradesh,268,176,92,34.32835820895522,25.0
+S001,Seller A,Women's Bras,Jammu & Kashmir,369,204,165,44.71544715447154,72.75
+S001,Seller A,Women's Bras,Jharkhand,304,191,113,37.17105263157895,37.0
+S001,Seller A,Women's Bras,Karnataka,8346,6266,2080,24.922118380062305,0.0
+S001,Seller A,Women's Bras,Kerala,14654,12085,2569,17.531049542786953,0.0
+S001,Seller A,Women's Bras,Madhya Pradesh,947,611,336,35.480464625131994,99.25
+S001,Seller A,Women's Bras,Maharashtra,6575,4747,1828,27.80228136882129,184.25
+S001,Seller A,Women's Bras,Manipur,192,99,93,48.4375,45.0
+S001,Seller A,Women's Bras,Meghalaya,92,72,20,21.73913043478261,0.0
+S001,Seller A,Women's Bras,Orissa,866,611,255,29.445727482678983,38.5
+S001,Seller A,Women's Bras,Pondicherry,196,146,50,25.51020408163265,1.0
+S001,Seller A,Women's Bras,Punjab,437,278,159,36.38443935926773,49.75
+S001,Seller A,Women's Bras,Rajasthan,354,216,138,38.983050847457626,49.5
+S001,Seller A,Women's Bras,Sikkim,90,54,36,40.0,13.5
+S001,Seller A,Women's Bras,TELANGANA,4088,2954,1134,27.73972602739726,112.0
+S001,Seller A,Women's Bras,Tamil Nadu,10228,8346,1882,18.400469299960893,0.0
+S001,Seller A,Women's Bras,Tripura,154,99,55,35.714285714285715,16.5
+S001,Seller A,Women's Bras,Uttar Pradesh,4030,2617,1413,35.0620347394541,405.5
+S001,Seller A,Women's Bras,Uttarakhand,568,382,186,32.74647887323944,44.0
+S001,Seller A,Women's Bras,West Bengal,2663,1973,690,25.910627112279386,24.25
+S002,Seller B,Bedsheets,Andhra Pradesh,147,113,34,23.12925170068027,0.0
+S002,Seller B,Bedsheets,Assam,278,183,95,34.1726618705036,25.5
+S002,Seller B,Bedsheets,Bihar,149,86,63,42.28187919463088,25.75
+S002,Seller B,Bedsheets,Chandigarh,54,35,19,35.18518518518518,5.5
+S002,Seller B,Bedsheets,Chhattisgarh,59,45,14,23.728813559322035,0.0
+S002,Seller B,Bedsheets,Delhi,844,681,163,19.31279620853081,0.0
+S002,Seller B,Bedsheets,Gujarat,452,367,85,18.805309734513276,0.0
+S002,Seller B,Bedsheets,Haryana,630,475,155,24.6031746031746,0.0
+S002,Seller B,Bedsheets,Himachal Pradesh,160,129,31,19.375,0.0
+S002,Seller B,Bedsheets,Jammu & Kashmir,157,116,41,26.11464968152866,1.75
+S002,Seller B,Bedsheets,Jharkhand,80,52,28,35.0,8.0
+S002,Seller B,Bedsheets,Karnataka,273,206,67,24.54212454212454,0.0
+S002,Seller B,Bedsheets,Kerala,217,185,32,14.746543778801843,0.0
+S002,Seller B,Bedsheets,Madhya Pradesh,239,183,56,23.430962343096237,0.0
+S002,Seller B,Bedsheets,Maharashtra,1169,931,238,20.35928143712575,0.0
+S002,Seller B,Bedsheets,Orissa,186,119,67,36.02150537634409,20.5
+S002,Seller B,Bedsheets,Punjab,498,348,150,30.120481927710845,25.5
+S002,Seller B,Bedsheets,Rajasthan,192,113,79,41.14583333333333,31.0
+S002,Seller B,Bedsheets,TELANGANA,312,238,74,23.717948717948715,0.0
+S002,Seller B,Bedsheets,Uttar Pradesh,1001,736,265,26.47352647352647,14.75
+S002,Seller B,Bedsheets,Uttarakhand,176,132,44,25.0,0.0
+S002,Seller B,Bedsheets,West Bengal,564,467,97,17.19858156028369,0.0
+S003,Seller C,Walkie-talkies / Electronics,Andhra Pradesh,1067,593,474,44.42361761949391,207.25
+S003,Seller C,Walkie-talkies / Electronics,Arunachal Pradesh,485,281,204,42.06185567010309,82.75
+S003,Seller C,Walkie-talkies / Electronics,Assam,899,388,511,56.84093437152391,286.25
+S003,Seller C,Walkie-talkies / Electronics,Bihar,1189,491,698,58.70479394449117,400.75
+S003,Seller C,Walkie-talkies / Electronics,Chhattisgarh,254,142,112,44.09448818897638,48.5
+S003,Seller C,Walkie-talkies / Electronics,Delhi,451,281,170,37.6940133037694,57.25
+S003,Seller C,Walkie-talkies / Electronics,Goa,132,97,35,26.51515151515152,2.0
+S003,Seller C,Walkie-talkies / Electronics,Gujarat,623,362,261,41.89406099518459,105.25
+S003,Seller C,Walkie-talkies / Electronics,Haryana,813,431,382,46.98646986469865,178.75
+S003,Seller C,Walkie-talkies / Electronics,Himachal Pradesh,129,78,51,39.53488372093023,18.75
+S003,Seller C,Walkie-talkies / Electronics,Jammu & Kashmir,403,148,255,63.27543424317618,154.25
+S003,Seller C,Walkie-talkies / Electronics,Jharkhand,516,256,260,50.3875968992248,131.0
+S003,Seller C,Walkie-talkies / Electronics,Karnataka,1288,692,596,46.27329192546584,274.0
+S003,Seller C,Walkie-talkies / Electronics,Kerala,1343,844,499,37.15562174236784,163.25
+S003,Seller C,Walkie-talkies / Electronics,Madhya Pradesh,853,400,453,53.106682297772565,239.75
+S003,Seller C,Walkie-talkies / Electronics,Maharashtra,2610,1548,1062,40.689655172413794,409.5
+S003,Seller C,Walkie-talkies / Electronics,Manipur,161,83,78,48.4472049689441,37.75
+S003,Seller C,Walkie-talkies / Electronics,Meghalaya,302,189,113,37.41721854304636,37.5
+S003,Seller C,Walkie-talkies / Electronics,Mizoram,129,88,41,31.782945736434108,8.75
+S003,Seller C,Walkie-talkies / Electronics,Nagaland,333,216,117,35.13513513513514,33.75
+S003,Seller C,Walkie-talkies / Electronics,Orissa,402,200,202,50.24875621890548,101.5
+S003,Seller C,Walkie-talkies / Electronics,Pondicherry,52,27,25,48.07692307692308,12.0
+S003,Seller C,Walkie-talkies / Electronics,Punjab,653,343,310,47.47320061255743,146.75
+S003,Seller C,Walkie-talkies / Electronics,Rajasthan,986,395,591,59.93914807302231,344.5
+S003,Seller C,Walkie-talkies / Electronics,Sikkim,118,66,52,44.06779661016949,22.5
+S003,Seller C,Walkie-talkies / Electronics,TELANGANA,1219,703,516,42.32977850697293,211.25
+S003,Seller C,Walkie-talkies / Electronics,Tamil Nadu,1560,951,609,39.03846153846154,219.0
+S003,Seller C,Walkie-talkies / Electronics,Tripura,239,96,143,59.83263598326359,83.25
+S003,Seller C,Walkie-talkies / Electronics,Uttar Pradesh,1099,482,617,56.14194722474978,342.25
+S003,Seller C,Walkie-talkies / Electronics,Uttarakhand,334,194,140,41.91616766467065,56.5
+S003,Seller C,Walkie-talkies / Electronics,West Bengal,855,447,408,47.719298245614034,194.25
+S004,Seller D,Plants / Gardening,Andhra Pradesh,465,267,198,42.58064516129032,81.75
+S004,Seller D,Plants / Gardening,Arunachal Pradesh,107,79,28,26.168224299065415,1.25
+S004,Seller D,Plants / Gardening,Assam,312,209,103,33.01282051282051,25.0
+S004,Seller D,Plants / Gardening,Bihar,767,355,412,53.71577574967405,220.25
+S004,Seller D,Plants / Gardening,Chandigarh,78,58,20,25.64102564102564,0.5
+S004,Seller D,Plants / Gardening,Chhattisgarh,680,434,246,36.17647058823529,76.0
+S004,Seller D,Plants / Gardening,Delhi,619,397,222,35.864297253634895,67.25
+S004,Seller D,Plants / Gardening,Goa,79,65,14,17.72151898734177,0.0
+S004,Seller D,Plants / Gardening,Gujarat,1146,621,525,45.81151832460733,238.5
+S004,Seller D,Plants / Gardening,Haryana,982,506,476,48.472505091649694,230.5
+S004,Seller D,Plants / Gardening,Himachal Pradesh,109,80,29,26.605504587155966,1.75
+S004,Seller D,Plants / Gardening,Jammu & Kashmir,196,91,105,53.57142857142857,56.0
+S004,Seller D,Plants / Gardening,Jharkhand,195,127,68,34.87179487179487,19.25
+S004,Seller D,Plants / Gardening,Karnataka,1238,781,457,36.91437802907916,147.5
+S004,Seller D,Plants / Gardening,Kerala,1417,913,504,35.5681016231475,149.75
+S004,Seller D,Plants / Gardening,Madhya Pradesh,1399,716,683,48.82058613295211,333.25
+S004,Seller D,Plants / Gardening,Maharashtra,2558,1392,1166,45.582486317435496,526.5
+S004,Seller D,Plants / Gardening,Orissa,1374,822,552,40.174672489082965,208.5
+S004,Seller D,Plants / Gardening,Punjab,1356,746,610,44.985250737463126,271.0
+S004,Seller D,Plants / Gardening,Rajasthan,1723,748,975,56.58734764944864,544.25
+S004,Seller D,Plants / Gardening,TELANGANA,457,264,193,42.23194748358862,78.75
+S004,Seller D,Plants / Gardening,Tamil Nadu,468,293,175,37.39316239316239,58.0
+S004,Seller D,Plants / Gardening,Tripura,94,56,38,40.42553191489361,14.5
+S004,Seller D,Plants / Gardening,Uttar Pradesh,3934,1817,2117,53.8129130655821,1133.5
+S004,Seller D,Plants / Gardening,Uttarakhand,113,76,37,32.743362831858406,8.75
+S004,Seller D,Plants / Gardening,West Bengal,1561,993,568,36.38693145419603,177.75
+S005,Seller E,Jewellery,Andhra Pradesh,2730,1546,1184,43.36996336996337,501.5
+S005,Seller E,Jewellery,Assam,642,404,238,37.07165109034268,77.5
+S005,Seller E,Jewellery,Bihar,371,201,170,45.82210242587601,77.25
+S005,Seller E,Jewellery,Chandigarh,96,66,30,31.25,6.0
+S005,Seller E,Jewellery,Chhattisgarh,364,272,92,25.274725274725277,1.0
+S005,Seller E,Jewellery,Delhi,802,533,269,33.54114713216958,68.5
+S005,Seller E,Jewellery,Goa,104,77,27,25.961538461538463,1.0
+S005,Seller E,Jewellery,Gujarat,1727,1233,494,28.60451650260568,62.25
+S005,Seller E,Jewellery,Haryana,1133,779,354,31.24448367166814,70.75
+S005,Seller E,Jewellery,Himachal Pradesh,739,495,244,33.01759133964817,59.25
+S005,Seller E,Jewellery,Jammu & Kashmir,336,187,149,44.345238095238095,65.0
+S005,Seller E,Jewellery,Jharkhand,295,188,107,36.271186440677965,33.25
+S005,Seller E,Jewellery,Karnataka,7739,4753,2986,38.58379635611836,1051.25
+S005,Seller E,Jewellery,Kerala,3375,2530,845,25.037037037037035,1.25
+S005,Seller E,Jewellery,Madhya Pradesh,863,648,215,24.91309385863268,0.0
+S005,Seller E,Jewellery,Maharashtra,5566,3943,1623,29.15918074020841,231.5
+S005,Seller E,Jewellery,Orissa,715,430,285,39.86013986013986,106.25
+S005,Seller E,Jewellery,Pondicherry,258,173,85,32.945736434108525,20.5
+S005,Seller E,Jewellery,Punjab,1302,823,479,36.78955453149001,153.5
+S005,Seller E,Jewellery,Rajasthan,1068,647,421,39.41947565543072,154.0
+S005,Seller E,Jewellery,TELANGANA,2791,1727,1064,38.122536725188105,366.25
+S005,Seller E,Jewellery,Tamil Nadu,8087,5506,2581,31.91541980957092,559.25
+S005,Seller E,Jewellery,Tripura,87,60,27,31.03448275862069,5.25
+S005,Seller E,Jewellery,Uttar Pradesh,2058,1362,696,33.819241982507286,181.5
+S005,Seller E,Jewellery,Uttarakhand,357,239,118,33.0532212885154,28.75
+S005,Seller E,Jewellery,West Bengal,991,727,264,26.63975782038345,16.25
+S006,Seller F,Sarees / Ethnic Fashion,Andaman Nicobar,141,103,38,26.95035460992908,2.75
+S006,Seller F,Sarees / Ethnic Fashion,Andhra Pradesh,8290,4848,3442,41.519903498190594,1369.5
+S006,Seller F,Sarees / Ethnic Fashion,Arunachal Pradesh,58,29,29,50.0,14.5
+S006,Seller F,Sarees / Ethnic Fashion,Assam,1133,580,553,48.80847308031774,269.75
+S006,Seller F,Sarees / Ethnic Fashion,Bihar,724,321,403,55.66298342541437,222.0
+S006,Seller F,Sarees / Ethnic Fashion,Chandigarh,82,58,24,29.268292682926827,3.5
+S006,Seller F,Sarees / Ethnic Fashion,Chhattisgarh,1352,949,403,29.807692307692307,65.0
+S006,Seller F,Sarees / Ethnic Fashion,Dadra And Nagar Haveli,52,31,21,40.38461538461539,8.0
+S006,Seller F,Sarees / Ethnic Fashion,Delhi,2195,1493,702,31.98177676537585,153.25
+S006,Seller F,Sarees / Ethnic Fashion,Goa,713,529,184,25.806451612903224,5.75
+S006,Seller F,Sarees / Ethnic Fashion,Gujarat,2967,2140,827,27.873272665992587,85.25
+S006,Seller F,Sarees / Ethnic Fashion,Haryana,1067,669,398,37.30084348641049,131.25
+S006,Seller F,Sarees / Ethnic Fashion,Himachal Pradesh,219,151,68,31.05022831050228,13.25
+S006,Seller F,Sarees / Ethnic Fashion,Jammu & Kashmir,187,102,85,45.45454545454545,38.25
+S006,Seller F,Sarees / Ethnic Fashion,Jharkhand,576,320,256,44.44444444444444,112.0
+S006,Seller F,Sarees / Ethnic Fashion,Karnataka,21691,14983,6708,30.92526854455765,1285.25
+S006,Seller F,Sarees / Ethnic Fashion,Kerala,18966,14919,4047,21.338184118949695,0.0
+S006,Seller F,Sarees / Ethnic Fashion,Madhya Pradesh,1717,1031,686,39.95340710541642,256.75
+S006,Seller F,Sarees / Ethnic Fashion,Maharashtra,26256,18113,8143,31.01386349786716,1579.0
+S006,Seller F,Sarees / Ethnic Fashion,Meghalaya,57,37,20,35.08771929824561,5.75
+S006,Seller F,Sarees / Ethnic Fashion,Orissa,1895,1083,812,42.849604221635886,338.25
+S006,Seller F,Sarees / Ethnic Fashion,Pondicherry,977,703,274,28.04503582395087,29.75
+S006,Seller F,Sarees / Ethnic Fashion,Punjab,479,276,203,42.37995824634656,83.25
+S006,Seller F,Sarees / Ethnic Fashion,Rajasthan,1478,919,559,37.82138024357239,189.5
+S006,Seller F,Sarees / Ethnic Fashion,Sikkim,72,41,31,43.05555555555556,13.0
+S006,Seller F,Sarees / Ethnic Fashion,TELANGANA,12013,8075,3938,32.78115375010405,934.75
+S006,Seller F,Sarees / Ethnic Fashion,Tamil Nadu,28340,20195,8145,28.74029640084686,1060.0
+S006,Seller F,Sarees / Ethnic Fashion,Tripura,362,196,166,45.85635359116022,75.5
+S006,Seller F,Sarees / Ethnic Fashion,Uttar Pradesh,3762,2168,1594,42.37107921318447,653.5
+S006,Seller F,Sarees / Ethnic Fashion,Uttarakhand,673,413,260,38.632986627043095,91.75
+S006,Seller F,Sarees / Ethnic Fashion,West Bengal,2972,1875,1097,36.911170928667566,354.0
+S006,Seller F,Sarees / Ethnic Fashion,,93,65,28,30.107526881720432,4.75
