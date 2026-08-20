@@ -1,11 +1,11 @@
-# Multi-Seller D2C Growth & Profitability Analytics
+ Multi-Seller D2C Growth & Profitability Analytics
 
-## Project Overview
+Project Overview
 This project analyzes a portfolio of 6 D2C sellers across profitability, growth, marketing efficiency, Return-to-Origin (RTO), payment behavior, and product concentration.
 
 The objective is to move beyond isolated KPI reporting and build a management-level view of profitable growth and operational leakage.
 
-## Business Questions
+ Business Questions
 - Which sellers contribute the most NMV and profit?
 - Which sellers have weak unit economics?
 - How does RTO vary across sellers and states?
@@ -14,7 +14,7 @@ The objective is to move beyond isolated KPI reporting and build a management-le
 - Where is product concentration highest?
 - Which actions should management prioritize?
 
-## Key KPIs
+ Key KPIs
 - NMV
 - Profit
 - Profit Margin %
@@ -29,7 +29,7 @@ The objective is to move beyond isolated KPI reporting and build a management-le
 - COD RTO Penalty
 - Product Concentration
 
-## Dashboard
+Dashboard
 The interactive HTML dashboard contains 7 pages:
 1. Executive Overview
 2. Seller Benchmarking
@@ -41,7 +41,7 @@ The interactive HTML dashboard contains 7 pages:
 
 Open `dashboard/D2C_Growth_Profitability_Executive_Dashboard.html` in a browser.
 
-## Data Model
+ Data Model
 The project intentionally keeps datasets at their original analytical grain instead of flattening everything into one table.
 
 | Dataset | Grain |
@@ -55,7 +55,7 @@ The project intentionally keeps datasets at their original analytical grain inst
 | Payment Detail | Seller × Payment Mode |
 | Priority Flags | Seller-level priority/status flags |
 
-## Tech Stack
+Tech Stack
 - SQL
 - Python
 - Pandas
@@ -64,26 +64,10 @@ The project intentionally keeps datasets at their original analytical grain inst
 - CSS
 - JavaScript
 
-## Key Analytical Themes
+ Key Analytical Themes
 - Seller scale versus profitability
 - RTO-driven operational leakage
 - COD versus non-COD performance
 - Marketing efficiency versus profit quality
 - Product concentration risk
 - Management prioritization
-
-## Repository Structure
-```text
-data/       Processed analytical datasets
-sql/        SQL analysis queries
-dashboard/  Interactive HTML dashboard
-docs/       Project documentation
-images/     Place dashboard screenshots here
-```
-
-## Important Note
-The data originated from a real D2C work context. Before making the repository public, verify that you have permission to publish the seller names and business metrics. If required, anonymize seller names and sensitive values.
-
-
-## Data Privacy
-Seller identities have been anonymized for portfolio and public GitHub use. Seller names are represented as Seller A through Seller F.
