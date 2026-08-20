@@ -1,4 +1,7 @@
- Multi-Seller D2C Growth & Profitability Analytics
+ # Multi-Seller D2C Growth & Profitability Analytics
+<p align="center">
+  <img src="d2c-growth-profitability-analytics.png" alt="D2C Analytics Dashboard" width="100%">
+</p>
 
 Project Overview
 This project analyzes a portfolio of 6 D2C sellers across profitability, growth, marketing efficiency, Return-to-Origin (RTO), payment behavior, and product concentration.
