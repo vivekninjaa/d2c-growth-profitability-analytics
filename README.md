@@ -39,8 +39,6 @@ The interactive HTML dashboard contains 7 pages:
 6. Payment Analysis
 7. Management Actions
 
-Open `dashboard/D2C_Growth_Profitability_Executive_Dashboard.html` in a browser.
-
  Data Model
 The project intentionally keeps datasets at their original analytical grain instead of flattening everything into one table.
 
